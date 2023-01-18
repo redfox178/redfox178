@@ -1,3 +1,1 @@
--  Hi, I’m @redfox178
--  I’m interested in learing more about python and how it can be applied in the workforce.
--  I’m currently learning python and some c
+
